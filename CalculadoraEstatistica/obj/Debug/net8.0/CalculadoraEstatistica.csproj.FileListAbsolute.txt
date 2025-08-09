@@ -1,0 +1,14 @@
+C:\Users\Pichau\Documents\Projetos de programação\CalculadoraEstatistica\CalculadoraEstatistica\bin\Debug\net8.0\CalculadoraEstatistica.exe
+C:\Users\Pichau\Documents\Projetos de programação\CalculadoraEstatistica\CalculadoraEstatistica\bin\Debug\net8.0\CalculadoraEstatistica.deps.json
+C:\Users\Pichau\Documents\Projetos de programação\CalculadoraEstatistica\CalculadoraEstatistica\bin\Debug\net8.0\CalculadoraEstatistica.runtimeconfig.json
+C:\Users\Pichau\Documents\Projetos de programação\CalculadoraEstatistica\CalculadoraEstatistica\bin\Debug\net8.0\CalculadoraEstatistica.dll
+C:\Users\Pichau\Documents\Projetos de programação\CalculadoraEstatistica\CalculadoraEstatistica\bin\Debug\net8.0\CalculadoraEstatistica.pdb
+C:\Users\Pichau\Documents\Projetos de programação\CalculadoraEstatistica\CalculadoraEstatistica\obj\Debug\net8.0\CalculadoraEstatistica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\Projetos de programação\CalculadoraEstatistica\CalculadoraEstatistica\obj\Debug\net8.0\CalculadoraEstatistica.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Projetos de programação\CalculadoraEstatistica\CalculadoraEstatistica\obj\Debug\net8.0\CalculadoraEstatistica.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Projetos de programação\CalculadoraEstatistica\CalculadoraEstatistica\obj\Debug\net8.0\CalculadoraEstatistica.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Projetos de programação\CalculadoraEstatistica\CalculadoraEstatistica\obj\Debug\net8.0\CalculadoraEstatistica.dll
+C:\Users\Pichau\Documents\Projetos de programação\CalculadoraEstatistica\CalculadoraEstatistica\obj\Debug\net8.0\refint\CalculadoraEstatistica.dll
+C:\Users\Pichau\Documents\Projetos de programação\CalculadoraEstatistica\CalculadoraEstatistica\obj\Debug\net8.0\CalculadoraEstatistica.pdb
+C:\Users\Pichau\Documents\Projetos de programação\CalculadoraEstatistica\CalculadoraEstatistica\obj\Debug\net8.0\CalculadoraEstatistica.genruntimeconfig.cache
+C:\Users\Pichau\Documents\Projetos de programação\CalculadoraEstatistica\CalculadoraEstatistica\obj\Debug\net8.0\ref\CalculadoraEstatistica.dll
